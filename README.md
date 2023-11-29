@@ -3,15 +3,12 @@ Open AI GymのBoxingにおいて、AIに遅延を与えることで難易度調�
 
 ## 使用環境
 
-- jdk-20.0.1
 - python=3.10.*
-- tensorflow=2.11.0
-- CUDA=11.2.0（GPU使用の際に必要）
-- MSVC 2019（GPU使用の際に必要）
 
 ## Gymnasiumのインストール
 ```
-brew cask install java
+pip install gymnasium[atari]
+pip install gymnasium[accept-lom-ricense]
 ```
 
 ## Fighting ICEのダウンロード
