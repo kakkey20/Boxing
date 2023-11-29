@@ -21,6 +21,9 @@ python Boxing-rl.py
 - [Gymで強化学習①準備編](https://note.com/kikaben/n/n57584c49d5c2)
 - [[強化学習] いつの間にか OpenAI Gym が終焉していた](https://zenn.dev/ymd_h/articles/dd3bce4199e2ba)
 - [OpenAI Gym 入門](https://qiita.com/ishizakiiii/items/75bc2176a1e0b65bdd16)
+- [Learning_Openai-Gym-Boxing](https://github.com/yunik1004/Learning_Openai-Gym-Boxing)
+- [Boxing-RL](https://github.com/rohilG/Boxing-RL)
+
   
 
 ## 現状の課題
