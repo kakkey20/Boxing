@@ -16,8 +16,6 @@ pip install gymnasium[accept-lom-ricense]
 python Boxing-rl.py
 ```
 
-学習が完了すると、param.h5 ファイルが作成されます。
-
 ## 参考文献
 
 - [Gymで強化学習①準備編](https://note.com/kikaben/n/n57584c49d5c2)
