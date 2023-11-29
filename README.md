@@ -43,7 +43,7 @@ python Delay_FightingICE/train.py
 
 ## 参考文献
 
-- [FightingICE_RL](https://github.com/ruritoBlogger/FightingICE_RL)
+- [Gymで強化学習①準備編](https://note.com/kikaben/n/n57584c49d5c2)
 - [Ubuntu 18.04 / Windows 10で Open AI Gym API for Fighting ICEを使ってみた](https://kbkn.xyz/ue4/fightingicesetup/)
 - [Gym-FightingICE](https://github.com/TeamFightingICE/Gym-FightingICE)
 - [OpenAI Gym API for Fighting ICEを動かしてみる](https://www.inoue-kobo.com/ai_ml/gym-fightingice/)
