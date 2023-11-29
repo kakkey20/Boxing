@@ -21,7 +21,7 @@ python Boxing-rl.py
 - [Gymで強化学習①準備編](https://note.com/kikaben/n/n57584c49d5c2)
 
 ## 現状の課題
-- 実験用のAIをどう設定するか
+- 実験用のAIをどうするか
 - AIをどう学習させるか
 - AI同士の対戦方法
 - AIと人間の対戦方法
