@@ -31,7 +31,7 @@ python Boxing-rl.py
 - [OpenAI Gym 入門](https://qiita.com/ishizakiiii/items/75bc2176a1e0b65bdd16)
 - [Learning_Openai-Gym-Boxing](https://github.com/yunik1004/Learning_Openai-Gym-Boxing)
 - [Boxing-RL](https://github.com/rohilG/Boxing-RL)
-- [OpenAI Gym で自前の環境をつくる](https://qiita.com/ohtaman/items/edcb3b0a2ff9d48a7de)
+- [OpenAI Gym で自前の環境をつくる](https://qiita.com/ohtaman/items/edcb3b0a2ff9d48a7def)
 
   
 
