@@ -16,7 +16,7 @@ pip install gymnasium[accept-lom-ricense]
 ## その他のインストール
 ```
 pip install keras-rl
-pip install tensorflow==2.15.0
+pip install tensorflow==2.10.0
 ```
 
 ## 学習方法
