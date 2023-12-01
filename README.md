@@ -4,9 +4,11 @@ Open AI GymのBoxingにおいて、AIに遅延を与えることで難易度調�
 ## 使用環境
 
 - python=3.10.*
+- tensorflow
 
 ## Gymnasiumのインストール
 ```
+pip install gymnasium
 pip install gymnasium[atari]
 pip install gymnasium[accept-lom-ricense]
 ```
