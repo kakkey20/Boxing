@@ -35,9 +35,7 @@ python Boxing-rl.py
 - [Pytorchを使って深層強化学習のモデルDQNを構築する 〜Deep Reinforcement Learning〜](https://www.dskomei.com/entry/2021/10/05/140156)
 - [【強化学習】DQNを解説・実装](https://qiita.com/pocokhc/items/bb6a47e4d1d15112469f)
 - [【強化学習初心者向け】シンプルな実装例で学ぶQ学習、DQN、DDQN【CartPoleで棒立て：1ファイルで完結、Kearas使用】](https://qiita.com/sugulu_Ogawa_ISID/items/bc7c70e6658f204f85f9)
- 
   
-
 ## 現状の課題
 - 実験用のAIをどうするか　→　強化学習搭載のAIをまずはね
 - AIをどう学習させるか　→　まずはこれを頑張る
@@ -48,6 +46,9 @@ python Boxing-rl.py
 
 ## 次やること
 - DQNの参考コードを実装する（Boxing以外）
+- Pendulum.py
+- cartpoledqn.py
+- mountaincardqn.py
 
 ## 現状
 - BoxingのDQNがうまくいかないので、他のコードのDQNを実装する
