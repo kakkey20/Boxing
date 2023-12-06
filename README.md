@@ -32,7 +32,8 @@ python Boxing-rl.py
 - [Learning_Openai-Gym-Boxing](https://github.com/yunik1004/Learning_Openai-Gym-Boxing)
 - [Boxing-RL](https://github.com/rohilG/Boxing-RL)
 - [OpenAI Gym で自前の環境をつくる](https://qiita.com/ohtaman/items/edcb3b0a2ff9d48a7def)
-
+- [Pytorchを使って深層強化学習のモデルDQNを構築する 〜Deep Reinforcement Learning〜](https://www.dskomei.com/entry/2021/10/05/140156)
+ 
   
 
 ## 現状の課題
