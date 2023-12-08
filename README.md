@@ -55,7 +55,7 @@ python Boxing-rl.py
 - GymnasiumとGymの違いに苦しんでいる
 
 ## エラー
-- cartpole1
+### cartpole1
 - oneDNN → 大丈夫
 - libcudart.so.11.0 → CUDAについて、多分大丈夫
 - cuBLASファクトリー登録エラー → CUDAのセットアップ
