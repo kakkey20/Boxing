@@ -10,7 +10,7 @@ Open AI GymのBoxingにおいて、AIに遅延を与えることで難易度調�
 ```
 pip install gymnasium
 pip install gymnasium[atari]
-pip install gymnasium[accept-lom-ricense]
+pip install gymnasium[accept-rom-license]
 ```
 
 ## その他のインストール
