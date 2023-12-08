@@ -76,3 +76,4 @@ python Boxing-rl.py
 
 ### Boxing
 - おそらくinputがおかしい、けどわからない
+- Error when checking input: expected flatten_input to have 5 dimensions, but got array with shape (1, 1, 2)
