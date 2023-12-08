@@ -52,3 +52,16 @@ python Boxing-rl.py
 
 ## 現状
 - BoxingのDQNがうまくいかないので、他のコードのDQNを実装する
+- GymnasiumとGymの違いに苦しんでいる
+
+## エラー
+- cartpole1
+- oneDNN → 大丈夫
+- libcudart.so.11.0 → CUDAについて、多分大丈夫
+- cuBLASファクトリー登録エラー → CUDAのセットアップ
+- libvinfer.so.7 → NVIDIDIA TensorRTをインストールが必要、詳しく調べる必要あり
+- CartPole-v0の非推奨警告 → バージョンが古いかも、多分大丈夫
+- libcuda.so.1がみつからない → GPU関連なので無視
+- lr非推奨 → learning_rateに変更
+- ValueError → 値がおかしいかも
+
