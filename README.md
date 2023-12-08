@@ -46,7 +46,7 @@ python Boxing-rl.py
 
 ## 次やること
 - DQNの参考コードを実装する（Boxing以外）
-- Pendulum.py
+- Pendulum.py → srlというgymを使わずにAtariを使用、いったん放置
 - cartpoledqn.py
 - mountaincardqn.py
 
