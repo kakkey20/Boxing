@@ -65,7 +65,7 @@ python Boxing-rl.py
 - lr非推奨 → learning_rateに変更
 - ValueError → 値がおかしいかも
 
-### cartpole2
+### Mountain_car
 - TensorFlowのCPU最適化に関する情報 → 問題なし
 - CUDAライブラリが見つからない → GPU使う場合
 - cuBLASプラグインの登録エラー → cuBLAS、バージョン不一致やライブラリの不足
