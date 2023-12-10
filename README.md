@@ -25,7 +25,7 @@ pyenv install -l
 pyenv install 3.9.16
 source ~/.bash_profile
 pyenv local 3.9.16
-poetry run
+poetry env use 3.9.16
 ```
 
 
