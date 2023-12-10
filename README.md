@@ -49,8 +49,8 @@ python Boxing-rl.py
 ## 次やること
 - DQNの参考コードを実装する（Boxing以外）
 - Pendulum.py → srlというgymを使わずにAtariを使用、いったん放置
-- cartpoledqn.py
-- mountaincardqn.py
+- cartpoledqn.py 
+- mountaincardqn.py → Tensorflow全パターンごり押し
 
 ## 現状
 - BoxingのDQNがうまくいかないので、他のコードのDQNを実装する
