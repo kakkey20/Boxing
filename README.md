@@ -19,6 +19,16 @@ pip install keras-rl2
 pip install tensorflow==2.10.0
 ```
 
+## pythonのインストール
+```
+pyenv install -l
+pyenv install 3.9.16
+source ~/.bash_profile
+pyenv local 3.9.16
+poetry run
+```
+
+
 ## 学習方法
 ```
 python Boxing-rl.py
