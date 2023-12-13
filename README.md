@@ -1,7 +1,7 @@
 # Boxing
 Open AI GymのBoxingにおいて、AIに遅延を与えることで難易度調整ができるか検証する
 
-## 使用環境
+## 使用環境（暫定であり、この環境が正しいかどうかの確証はない）
 
 - python=3.10.*
 - tensorflow=2.10.0
@@ -9,19 +9,19 @@ Open AI GymのBoxingにおいて、AIに遅延を与えることで難易度調�
 ## Gymnasiumのインストール
 ```
 pip install gymnasium
-pip install gymnasium[atari]
-pip install gymnasium[accept-rom-license]
+pip install gymnasium[atari] → atariのインストール、ゲームによっては[box2D]等
+pip install gymnasium[accept-rom-license] → romのインストール
 ```
 
 ## その他のインストール
 ```
-pip install keras-rl2
-pip install tensorflow==2.10.0
-pip install protobuf==3.20.0
-pip install numpy==1.21.0
+pip install keras-rl2 → keras-rlだとエラーが起きた
+pip install tensorflow==2.10.0 → 場合によって変更
+pip install protobuf==3.20.0 → tensorflowが低いバージョンの際にインストール必要
+pip install numpy==1.21.0 → tenosorflowが低いバージョンの際にインストール必要
 ```
 
-## pythonのインストール
+## pythonのインストール（主がpoetryを使い、自分の環境を作成するためのコード）
 ```
 pyenv install -l
 pyenv install 3.9.16
