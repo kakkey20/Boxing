@@ -104,6 +104,6 @@ python Boxing-rl.py
 - 2.8.4 ダメ
 - 2.7.4 ダメ
 - 2.6.3 ダメ
-- 2.5.3 cannnot import name LayerNormalization
+- 2.5.3 3.8 ダメ
 - 2.4.4
 - 2.3.4 
