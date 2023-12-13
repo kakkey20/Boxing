@@ -64,6 +64,8 @@ python Boxing-rl.py
 - cartpoledqn.py 
 - mountaincardqn.py → Tensorflow全パターンごり押し、3.10がだめかもなので、他のPythonを試す(3.9から)
 
+- コードと素直に格闘するしかない現状、香月くんにいろいろ説明するためのGithubの作成
+
 ## 現状
 - BoxingのDQNがうまくいかないので、他のコードのDQNを実装する
 - GymnasiumとGymの違いに苦しんでいる
