@@ -34,7 +34,6 @@ poetry env use 3.9.16
 ```
 python Boxing-rl.py
 ```
-
   
 ## 現状の課題（全体図）
 - 実験用のAIをどうするか　→　強化学習搭載のAIをまずはね
@@ -48,12 +47,11 @@ python Boxing-rl.py
 - BoxingのDQNがうまくいかないので、他のコードのDQNを実装する
 - GymnasiumとGymの違いに苦しんでいる
 - Gymnasiumの参考コードがなさすぎてうざすぎる
-- PythonとTensorflowによる問題ではないので、コードによる問題と思われる。一番うざい
+- mountaincardqn.pyが実行できないが、PythonとTensorflowによる問題ではないので、コードによる問題と思われる。一番うざい
+- Pendulum.py → srlというgymを使わずにAtariを使用、いったん放置
+- cartpoledqn.py → コード量が多いので、いったん放置
 
 ## 次やること
-- DQNの参考コードを実装する（Boxing以外）
-- Pendulum.py → srlというgymを使わずにAtariを使用、いったん放置
-- cartpoledqn.py 
 - mountaincardqn.py → Tensorflow全パターンごり押し、3.10がだめかもなので、他のPythonを試す(3.9から)
 - コードと素直に格闘するしかない現状、香月くんにいろいろ説明するためのGithubの作成
 - コードのアップロード
