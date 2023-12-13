@@ -67,6 +67,9 @@ python Boxing-rl.py
 ## 現状
 - BoxingのDQNがうまくいかないので、他のコードのDQNを実装する
 - GymnasiumとGymの違いに苦しんでいる
+- Gymnasiumの参考コードがなさすぎてうざすぎる
+- PythonとTensorflowによる問題ではないので、コードによる問題と思われる。一番うざい
+
 
 ## エラー
 ### cartpole1
