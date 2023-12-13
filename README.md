@@ -30,14 +30,13 @@ pyenv local 3.9.16
 poetry env use 3.9.16
 ```
 
-
 ## 学習方法（コードを
 ```
 python Boxing-rl.py
 ```
 
   
-## 現状の課題
+## 現状の課題（全体図）
 - 実験用のAIをどうするか　→　強化学習搭載のAIをまずはね
 - AIをどう学習させるか　→　まずはこれを頑張る
 - AI同士の対戦方法　→　絶対に必要（AIの保存がわからん）
@@ -45,20 +44,19 @@ python Boxing-rl.py
 - 修士論文の構成 → なんとなくはわかるけど厳密じゃない
 - 修士論文参考文献 → どの論文読もうかしら
 
-## 次やること
-- DQNの参考コードを実装する（Boxing以外）
-- Pendulum.py → srlというgymを使わずにAtariを使用、いったん放置
-- cartpoledqn.py 
-- mountaincardqn.py → Tensorflow全パターンごり押し、3.10がだめかもなので、他のPythonを試す(3.9から)
-
-- コードと素直に格闘するしかない現状、香月くんにいろいろ説明するためのGithubの作成
-
 ## 現状
 - BoxingのDQNがうまくいかないので、他のコードのDQNを実装する
 - GymnasiumとGymの違いに苦しんでいる
 - Gymnasiumの参考コードがなさすぎてうざすぎる
 - PythonとTensorflowによる問題ではないので、コードによる問題と思われる。一番うざい
 
+## 次やること
+- DQNの参考コードを実装する（Boxing以外）
+- Pendulum.py → srlというgymを使わずにAtariを使用、いったん放置
+- cartpoledqn.py 
+- mountaincardqn.py → Tensorflow全パターンごり押し、3.10がだめかもなので、他のPythonを試す(3.9から)
+- コードと素直に格闘するしかない現状、香月くんにいろいろ説明するためのGithubの作成
+- コードのアップロード
 
 ## エラー
 ### cartpole1
