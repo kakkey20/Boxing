@@ -52,9 +52,7 @@ python Boxing-rl.py
 - cartpoledqn.py → コード量が多いので、いったん放置
 
 ## 次やること
-- mountaincardqn.py → Tensorflow全パターンごり押し、3.10がだめかもなので、他のPythonを試す(3.9から)
-- コードと素直に格闘するしかない現状、香月くんにいろいろ説明するためのGithubの作成
-- コードのアップロード
+- コードと素直に格闘する
 
 ## エラーの種類（Chatgptに詳しく記述あり）
 ### cartpole1
