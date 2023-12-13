@@ -18,6 +18,7 @@ pip install gymnasium[accept-rom-license]
 pip install keras-rl2
 pip install tensorflow==2.10.0
 pip install protobuf==3.20.0
+pip install numpy==1.21.0
 ```
 
 ## pythonのインストール
