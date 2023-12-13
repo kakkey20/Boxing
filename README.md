@@ -58,7 +58,7 @@ python Boxing-rl.py
 - コードと素直に格闘するしかない現状、香月くんにいろいろ説明するためのGithubの作成
 - コードのアップロード
 
-## エラー
+## エラーの種類（Chatgptに詳しく記述あり）
 ### cartpole1
 - oneDNN → 大丈夫
 - libcudart.so.11.0 → CUDAについて、多分大丈夫
@@ -97,7 +97,7 @@ python Boxing-rl.py
 - [Mountain Car(Gym)](https://www.gymlibrary.dev/environments/classic_control/mountain_car/)
 - [Mountain Car(Gymnasium)](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
   
-## Tensorflow(version)
+## Tensorflow(version)　→ mountaincarを各バージョンで実行したが、うまくいかず
 - 2.11.1 ダメだけど、エラー変化あり
 - 2.12.1 ダメ
 - 2.13.1 ダメだけど、エラー変化あり
