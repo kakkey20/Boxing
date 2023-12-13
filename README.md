@@ -93,6 +93,9 @@ python Boxing-rl.py
 - Error when checking input: expected flatten_input to have 5 dimensions, but got array with shape (1, 1, 2)
 
 ## Tensorflow(version)
+- 2.11.1 ダメだけど、エラー変化あり
+- 2.12.1 ダメ
+- 2.13.1 ダメだけど、エラー変化あり
 - 2.10.0 ダメ
 - 2.10.1 ダメ
 - 2.9.1 ダメ
@@ -100,6 +103,7 @@ python Boxing-rl.py
 - 2.9.3 ダメ
 - 2.8.4 ダメ
 - 2.7.4 ダメ
-- 2.11.1 ダメだけど、エラー変化あり
-- 2.12.1 ダメ
-- 2.13.1 ダメだけど、エラー変化あり
+- 2.6.3 ダメ
+- 2.5.3 
+- 2.4.4
+- 2.3.4 
