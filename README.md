@@ -31,24 +31,11 @@ poetry env use 3.9.16
 ```
 
 
-## 学習方法
+## 学習方法（コードを
 ```
 python Boxing-rl.py
 ```
 
-## 参考文献
-
-- [Gymで強化学習①準備編](https://note.com/kikaben/n/n57584c49d5c2)
-- [[強化学習] いつの間にか OpenAI Gym が終焉していた](https://zenn.dev/ymd_h/articles/dd3bce4199e2ba)
-- [OpenAI Gym 入門](https://qiita.com/ishizakiiii/items/75bc2176a1e0b65bdd16)
-- [Learning_Openai-Gym-Boxing](https://github.com/yunik1004/Learning_Openai-Gym-Boxing)
-- [Boxing-RL](https://github.com/rohilG/Boxing-RL)
-- [OpenAI Gym で自前の環境をつくる](https://qiita.com/ohtaman/items/edcb3b0a2ff9d48a7def)
-- [Pytorchを使って深層強化学習のモデルDQNを構築する 〜Deep Reinforcement Learning〜](https://www.dskomei.com/entry/2021/10/05/140156)
-- [【強化学習】DQNを解説・実装](https://qiita.com/pocokhc/items/bb6a47e4d1d15112469f)
-- [【強化学習初心者向け】シンプルな実装例で学ぶQ学習、DQN、DDQN【CartPoleで棒立て：1ファイルで完結、Kearas使用】](https://qiita.com/sugulu_Ogawa_ISID/items/bc7c70e6658f204f85f9)
-- [Mountain Car(Gym)](https://www.gymlibrary.dev/environments/classic_control/mountain_car/)
-- [Mountain Car(Gymnasium)](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
   
 ## 現状の課題
 - 実験用のAIをどうするか　→　強化学習搭載のAIをまずはね
@@ -97,6 +84,21 @@ python Boxing-rl.py
 - おそらくinputがおかしい、けどわからない
 - Error when checking input: expected flatten_input to have 5 dimensions, but got array with shape (1, 1, 2)
 
+
+## 参考文献
+
+- [Gymで強化学習①準備編](https://note.com/kikaben/n/n57584c49d5c2)
+- [[強化学習] いつの間にか OpenAI Gym が終焉していた](https://zenn.dev/ymd_h/articles/dd3bce4199e2ba)
+- [OpenAI Gym 入門](https://qiita.com/ishizakiiii/items/75bc2176a1e0b65bdd16)
+- [Learning_Openai-Gym-Boxing](https://github.com/yunik1004/Learning_Openai-Gym-Boxing)
+- [Boxing-RL](https://github.com/rohilG/Boxing-RL)
+- [OpenAI Gym で自前の環境をつくる](https://qiita.com/ohtaman/items/edcb3b0a2ff9d48a7def)
+- [Pytorchを使って深層強化学習のモデルDQNを構築する 〜Deep Reinforcement Learning〜](https://www.dskomei.com/entry/2021/10/05/140156)
+- [【強化学習】DQNを解説・実装](https://qiita.com/pocokhc/items/bb6a47e4d1d15112469f)
+- [【強化学習初心者向け】シンプルな実装例で学ぶQ学習、DQN、DDQN【CartPoleで棒立て：1ファイルで完結、Kearas使用】](https://qiita.com/sugulu_Ogawa_ISID/items/bc7c70e6658f204f85f9)
+- [Mountain Car(Gym)](https://www.gymlibrary.dev/environments/classic_control/mountain_car/)
+- [Mountain Car(Gymnasium)](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
+  
 ## Tensorflow(version)
 - 2.11.1 ダメだけど、エラー変化あり
 - 2.12.1 ダメ
@@ -111,3 +113,4 @@ python Boxing-rl.py
 - 2.6.3 ダメ
 - 2.5.3 3.8 ダメ
 - 2.4.4 (numpy →← keras)両立できない
+
