@@ -93,7 +93,10 @@ python Boxing-rl.py
 - [【強化学習初心者向け】シンプルな実装例で学ぶQ学習、DQN、DDQN【CartPoleで棒立て：1ファイルで完結、Kearas使用】](https://qiita.com/sugulu_Ogawa_ISID/items/bc7c70e6658f204f85f9)
 - [Mountain Car(Gym)](https://www.gymlibrary.dev/environments/classic_control/mountain_car/)
 - [Mountain Car(Gymnasium)](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
-  
+- [Boxing(Gymn)](https://www.gymlibrary.dev/environments/atari/boxing/#boxing)
+- [Boxing(Gymnasiumn)](https://gymnasium.farama.org/environments/atari/boxing/#boxing)
+
+
 ## Tensorflow(version)　→ mountaincarを各バージョンで実行したが、うまくいかず
 - 2.11.1 ダメだけど、エラー変化あり
 - 2.12.1 ダメ
