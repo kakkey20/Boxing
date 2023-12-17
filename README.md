@@ -95,6 +95,7 @@ python Boxing-rl.py
 - [Mountain Car(Gymnasium)](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
 - [Boxing(Gymn)](https://www.gymlibrary.dev/environments/atari/boxing/#boxing)
 - [Boxing(Gymnasiumn)](https://gymnasium.farama.org/environments/atari/boxing/#boxing)
+- [AtariAge Boxing](https://atariage.com/manual_html_page.php?SoftwareID=882)
 
 
 ## Tensorflow(version)　→ mountaincarを各バージョンで実行したが、うまくいかず
