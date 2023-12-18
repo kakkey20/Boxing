@@ -119,6 +119,7 @@ python Boxing-rl.py
 - 深層強化学習（書籍を使用）
 - 遅延の論文整理
   - At human speed: Deep reinforcement learning with action delay
+  - Delay-Aware Model-Based Reinforcement Learning for Continuous Control
 - 難易度調整の論文整理
   - Diversifying Dynamic Difficulty Adjustment Agent by Integrating Player State Models into Monte-Carlo Tree Search
   - Motion Gaming AI using Time Series Forecasting and Dynamic Difficulty Adjustment
