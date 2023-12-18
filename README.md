@@ -118,12 +118,12 @@ python Boxing-rl.py
 - 深層学習（書籍を使用）
 - 深層強化学習（書籍を使用）
 - 遅延の論文整理
- - At human speed: Deep reinforcement learning with action delay
+  - At human speed: Deep reinforcement learning with action delay
 - 難易度調整の論文整理
-   - Diversifying Dynamic Difficulty Adjustment Agent by Integrating Player State Models into Monte-Carlo Tree Search
-   - Motion Gaming AI using Time Series Forecasting and Dynamic Difficulty Adjustment
+  - Diversifying Dynamic Difficulty Adjustment Agent by Integrating Player State Models into Monte-Carlo Tree Search
+  - Motion Gaming AI using Time Series Forecasting and Dynamic Difficulty Adjustment
 - Atariゲームの論文整理
   - Playing Atari with Deep Reinforcement Learning
 - Boxingの論文整理
-
-
+  -Active Vision Reinforcement Learning under Limited Visual Observability
+  -Effects of Different Optimization Formulations in Evolutionary Reinforcement Learning on Diverse Behavior Generation
