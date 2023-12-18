@@ -122,6 +122,7 @@ python Boxing-rl.py
 - 難易度調整の論文整理
   - Diversifying Dynamic Difficulty Adjustment Agent by Integrating Player State Models into Monte-Carlo Tree Search
   - Motion Gaming AI using Time Series Forecasting and Dynamic Difficulty Adjustment
+  - Representation and Frequency of Player Choice in Player-Oriented Dynamic Difficulty Adjustment Systems
 - Atariゲームの論文整理
   - Playing Atari with Deep Reinforcement Learning
 - Boxingの論文整理
