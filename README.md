@@ -125,5 +125,7 @@ python Boxing-rl.py
 - Atariゲームの論文整理
   - Playing Atari with Deep Reinforcement Learning
 - Boxingの論文整理
-  -Active Vision Reinforcement Learning under Limited Visual Observability
-  -Effects of Different Optimization Formulations in Evolutionary Reinforcement Learning on Diverse Behavior Generation
+  - Active Vision Reinforcement Learning under Limited Visual Observability
+  - Effects of Different Optimization Formulations in Evolutionary Reinforcement Learning on Diverse Behavior Generation
+
+
