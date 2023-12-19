@@ -1,0 +1,642 @@
+    1  sudo apt-get update
+    2  sudo apt-get -f install
+    3  sudo apt-get dist-upgrade
+    4  sudo apt-get install build-essential cmake libevdev-dev libudev-dev libgl1-mesa-dev libusb-1.0.0-dev libao-dev ibpulse-dev libxrandr-dev libopenal-dev libasound2-dev libzmq3-dev libgtk2.0-dev libpng-dev"~
+    5  sudo apt-get install build-essential cmake libevdev-dev libudev-dev libgl1-mesa-dev libusb-1.0.0-dev libao-dev ibpulse-dev libxrandr-dev libopenal-dev libasound2-dev libzmq3-dev libgtk2.0-dev libpng-dev"
+    6  sudo apt-get install build-essential cmake libevdev-dev libudev-dev libgl1-mesa-dev libusb-1.0.0-dev libao-dev ibpulse-dev libxrandr-dev libopenal-dev libasound2-dev libzmq3-dev libgtk2.0-dev libpng-dev
+    7  sudo apt-get -f install
+    8  sudo apt-get update
+    9  sudo apt-get -f install
+   10  sudo apt autoremove
+   11  sudo apt-get -f install
+   12  sudo apt-get dist-upgrade
+   13  sudo apt-get install build-essential cmake libevdev-dev libudev-dev libgl1-mesa-dev libusb-1.0.0-dev libao-dev ibpulse-dev libxrandr-dev libopenal-dev libasound2-dev libzmq3-dev libgtk2.0-dev libpng-dev
+   14  sudo apt-get install build-essential cmake libevdev-dev libudev-dev libgl1-mesa-dev libusb-1.0-0-dev libao-dev libpulse-dev libxrandr-dev libopenal-dev libasound2-dev libzmq3-dev libgtk2.0-dev libpng-dev
+   15  LANG=C xdg-user-dirs-gtk-update
+   16  ls
+   17  unzip dolphin.zip
+   18  unzip phillip-master.zip
+   19  unzip phillip2.zip
+   20  ls
+   21  cd dolphin-master
+   22  ls
+   23  mkdir Build
+   24  cmake ..
+   25  mkdir Build
+   26  sudo apt install python3-pip
+   27  pip3 install -e .
+   28  mkdir Build
+   29  cd Build
+   30  cmake ..
+   31  cd 
+   32  cd Desktop
+   33  cd dolphin-master
+   34  ls
+   35  cd
+   36  cd phillip-master
+   37  ls
+   38  cd Desktop
+   39  ls
+   40  cd Desktop
+   41  cd phillip-master
+   42  pip3 install -e .
+   43  python3 runner.py
+   44  python3 -u phillip/train.py --load saves/ActorCritic  --gpu --init
+   45  cd
+   46  cd Desktop
+   47  sudo apt install curl
+   48  sudo apt install git
+   49  sudo apt-get install build-essential gdb lcov pkg-config       libbz2-dev libffi-dev libgdbm-dev libgdbm-compat-dev liblzma-dev       libncurses5-dev libreadline6-dev libsqlite3-dev libssl-dev       lzma lzma-dev tk-dev uuid-dev zlib1g-dev
+   50  pyenv install -l
+   51  curl https://pyenv.run | bush
+   52  ls
+   53  curl https://pyenv.run | bush
+   54  sudo apt install curl
+   55  sudo apt install git
+   56  curl https://pyenv.run | bush
+   57  sudo apt install libnanomsg-dev
+   58  source ~/.bash_profile
+   59  export PYENV_ROOT="$HOME/.pyenv"
+   60  command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+   61  eval "$(pyenv init -)"
+   62  source ~/.bash_profile
+   63  curl https://pyenv.run | bush
+   64  sudo curl https://pyenv.run | bush
+   65  sudo apt-get install build-essential gdb lcov pkg-config       libbz2-dev libffi-dev libgdbm-dev libgdbm-compat-dev liblzma-dev       libncurses5-dev libreadline6-dev libsqlite3-dev libssl-dev       lzma lzma-dev tk-dev uuid-dev zlib1g-dev
+   66  pyenv install -l
+   67  sudo apt install pyenv
+   68  curl https://pyenv.run | bash
+   69  source ~/.bash_profile
+   70  ls
+   71  pyenv install -l
+   72  pyenv install 3.7.16
+   73  pyenv install -l
+   74  cd Desktop
+   75  cd phillip5
+   76  poetry
+   77  cd
+   78  poetry
+   79  cd Deskto
+   80  cd Desktop
+   81  cd phillip5
+   82  poetry init
+   83  cd Desktop
+   84  cd phillip5
+   85  poetry
+   86  pyenv local 3.6.15
+   87  cd
+   88  pyenv
+   89  cd Desktop
+   90  poetry run phillip
+   91  cd Desktop
+   92  cd phillip5
+   93  ls
+   94  phillip
+   95  poetry
+   96  poetry init
+   97  poetry env info
+   98  pyenv install -l
+   99  source ~/.bash_profile
+  100  pyenv install -l
+  101  pyenv local 3.6.15
+  102  poetry
+  103  poetry run phillip
+  104  poetry run pip list
+  105  poetry run python -m phillip
+  106  poetry shell
+  107  . /home/pichu/.cache/pypoetry/virtualenvs/phillip-yB0Go6_E-py3.6/bin/activate
+  108  echo $PATH
+  109  cd home/pichu/.cache/pypoetry/virtualenvs/phillip-yB0Go6_E-py3.6/bin
+  110  cd /home/pichu/.cache/pypoetry/virtualenvs/phillip-yB0Go6_E-py3.6/bin
+  111  ls
+  112  python
+  113  cd
+  114  cd Desktop
+  115  cd phillip5
+  116  phillip --load/Saves/Test --trainerip localhost --dolphin --exe dolphin-emu --zmq 1 --pipecount 1 --randomswap --enemy /saves/Test --iso /home/pichu/Desktop/ssbm02.iso --dualcore 0
+  117  python phillip/run.py --load/Saves/Test localhost
+  118  python phillip/run.py --load /Saves/Test localhost
+  119  python phillip/run.py --load /Saves/Test --dolphin --exe dolphin-emu --zmq 1
+  120  python phillip/run.py --load /Saves/ActorCritic --dolphin --exe dolphin-emu --zmq 1
+  121  python phillip/run.py --load /saves/ActorCritic --dolphin --exe dolphin-emu --zmq 1
+  122  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emu --zmq 1
+  123  pip install zmq
+  124  pip install pyzmq
+  125  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emu --zmq 1
+  126  sudo apt-add-repository ppa:dolphin-emu/ppa
+  127  sudo apt update
+  128  sudo apt install dolphin-emu
+  129  sudo apt-add-repository ppa:dolphin-emu/ppa
+  130  sudo apt update
+  131  sudo apt install dolphin-emu
+  132  sudo apt update
+  133  sudo apt install dolphin-emu
+  134  sudo apt-add-repository ppa:dolphin-emu/ppa
+  135  sudo snap install dolphin-emulator
+  136  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emu --zmq 1
+  137  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin --zmq 1
+  138  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emulator.dolphin-emu-nogui --zmq 1
+  139  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emulator.dolphin-emu-nogui --zmq 1 pipe_count 1 --random_swap --enemy saves/ActorCritic --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  140  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emulator.dolphin-emu-nogui --zmq 1 --pipe_count 1 --random_swap --enemy saves/ActorCritic --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  141  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1
+  142  python phillip/run.py --load saves/ActorCritic --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/ActorCritic --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  143  python phillip/launcher.py --load saves/ActorCritic --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/ActorCritic --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  144  python3 -u phillip/train.py --load saves/ssbm  --gpu --init
+  145  python phillip/run.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/ActorCritic --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  146  python phillip/run.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  147  python phillip/launcher.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0 
+  148  python launcher.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  149  python runner.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0
+  150  history fox.log
+  151  ls
+  152  history >> fox.log
+  153  python phillip/run.py --help
+  154  python runner.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0 --start 0
+  155  python phillip/run.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0 start 0
+  156  python phillip/run.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0 --start 0
+  157  python phillip/run.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0 --start 0 --reload 0
+  158  python phillip/run.py --load saves/FoxFD1 --dolphin --exe dolphin-emulator.dolphin-emu --zmq 1 --pipe_count 1 --random_swap --enemy saves/FoxFD1 --iso /home/pichu/Desktop/ssbm_02.iso --dual_core 0 --start 0 --reload 0 --epsilon 0
+  159  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe /dolphin-emulator.dolphin-emu
+  160  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso home/pichu./Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  161  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu./Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  162  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso home/pichu./Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  163  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  164  sudo apparmor_parser -R /etc/apparmor.d/snap.dolphin-emulator.dolphin-emu
+  165  ls
+  166  ls /etc/apparmor.d
+  167  sudo systemctl stop apparmor.service
+  168  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  169  ls /var/lib/snapd/apparmor/profiles/
+  170  sudo apparmor_parser -R /var/lib/snapd/apparmor/snap.dolphin-emulator.dolphin-emu
+  171  sudo apparmor_parser -R /var/lib/snapd/apparmor/profiles/snap.dolphin-emulator.dolphin-emu
+  172  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  173  sudo systemctl stop snapd.apparmor.service
+  174  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  175  sudo snap disable dolphin-emulator
+  176  sudo snap enable dolphin-emulator
+  177  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  178  sudo systemctl statue snapd.apparmor.service
+  179  sudo systemctl status snapd.apparmor.service
+  180  sudo systemctl disable snapd.apparmor.service
+  181  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  182  sudo apparmor_status
+  183  history >> apparmor.log
+  184  cat /proc/cmdline
+  185  sudo nano /etc/default/grub
+  186  cat /proc/cmdline
+  187  cat /etc/default/grub
+  188  sudo update-grub
+  189  cat /proc/cmdline
+  190  cd phillip
+  191  cd phillip5
+  192  poetry shell
+  193  . /home/pichu/.cache/pypoetry/virtualenvs/phillip-yB0Go6_E-py3.6/bin/activate
+  194  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /home/pichu/Desktop/ssbm_02.iso --exe dolphin-emulator.dolphin-emu
+  195  history >> apparmo2.log
+  196  cd
+  197  sudo apt update
+  198  sudo apt install ibus-mozc
+  199  sudo reboot
+  200  cd ..
+  201  cd Gym
+  202  poetry env info
+  203  poetry init
+  204  poetry env info
+  205  pip -v
+  206  which pip
+  207  cd ..
+  208  cd Downloads/
+  209  ls
+  210  sudo dpkg -i code
+  211  sudo dpkg -i code_1.84.2-1699528352_amd64.deb
+  212  cd ..
+  213  cd Gym
+  214  ls
+  215  poetry run
+  216  poetry env info
+  217  poetry env use 3.7.16
+  218  poetry env use 3.10.6
+  219  poetry env use 3.10.13
+  220  pyenv install -l
+  221  pyenv install 3.10.11
+  222  pyenv local 3.10.11
+  223  poetry env info
+  224  poetry env use 3.10.11
+  225  echo $PATH
+  226  source ~/.bash_profile
+  227  echo $PATH
+  228  pip -v
+  229  pip list
+  230  poetry run pip list
+  231  curl -sSL https://install.python-poetry.org | python3 -
+  232  poetry
+  233  poetry env info
+  234  poetry ru
+  235  poetry run
+  236  poetry env use 3.10.11
+  237  poetry init
+  238  poetry env info
+  239  poetry add numpy
+  240  pip -V
+  241  which python
+  242  poetry shell
+  243  . /home/pichu/.cache/pypoetry/virtualenvs/gym-kBUNdlp7-py3.10/bin/activate
+  244  python gym.py
+  245  poetry add gymnasium
+  246  python gym.py
+  247  poetry add gymnasium[all]
+  248  python gym.py
+  249  python test.py
+  250  poetry add gymnasium[box2d]
+  251  python test.py
+  252  python cartpole.py
+  253  python test.py
+  254  python cartpole.py
+  255  git clone https://github.com/rohilG/Boxing-RL.git
+  256  python Boxing-RL/deep_q_learning/q_learning.py 
+  257  poetry add tensorflow
+  258  python Boxing-RL/deep_q_learning/q_learning.py 
+  259  poetry add gym-retro 
+  260  poetry add gym-retro 0.8.0
+  261  python breakout.py
+  262  poetry add gym[accept-rom-license]=0.21.0
+  263  poetry add opencv-python
+  264  poetry add ipython
+  265  python breakout.py
+  266  poetry add ipywidgets
+  267  python breakout.py
+  268  poetry add gym[accept-rom-license]==0.21.0
+  269  pip install gym[accept-rom-license]==0.21.0
+  270  poetry config --list
+  271  poetry -V
+  272  poetry -v
+  273  poetry -V
+  274  pip install gym[accept-rom-license]==0.21.0
+  275  poetry add gym[accept-rom-license]==0.21.0
+  276  python breakout.py
+  277  python boxing.py
+  278  git clone https://github.com/yunik1004/Learning_Openai-Gym-Boxing.git
+  279  cd ..
+  280  ls
+  281  cd Atari-gym/
+  282  ls
+  283  cd Learning_Openai-Gym-Boxing/
+  284  ls
+  285  poetry init
+  286  cd ..
+  287  ls
+  288  python Boxing-RL/deep_q_learning/
+  289  python Boxing-RL/deep_q_learning/q_learning.py 
+  290  poetry add gym-retro
+  291  poetry add gym-retro>=0.8.0
+  292  python Boxing-RL/deep_q_learning/q_learning.py 
+  293  poetry add autorom
+  294  code
+  295  python boxing.py
+  296  history -> a.txt
+  297  history > a.txt
+  298  AutoROM
+  299  poetry add gymnasium[accept-rom-licence]
+  300  python boxing.py
+  301  poetry add gymnasium[atari]
+  302  python test.py
+  303  poetry add gymnasium[box2d]
+  304  python test.py
+  305  poetry add gymnasium[atari]
+  306  python boxing.py
+  307  ls
+  308  python  Mountain-car-rl.py 
+  309  . /home/pichu/.cache/pypoetry/virtualenvs/gym-boxing-22WLDLYl-py3.10/bin/activate
+  310  python Mountain-car-rl.py 
+  311  python Mountain-car-rl.py
+  312  poetry -V
+  313  python Mountain-car-rl.py
+  314  exit() exit()
+  315  exit
+  316  . /home/pichu/.cache/pypoetry/virtualenvs/gym-boxing-22WLDLYl-py3.10/bin/activate
+  317  python boxing.py
+  318  exit
+  319  . /home/pichu/.cache/pypoetry/virtualenvs/gym-boxing-22WLDLYl-py3.10/bin/activate
+  320  python boxing.py
+  321  python Mountain-car-rl.py 
+  322  python boxing.py
+  323  python boxing^rl.py
+  324  python boxing-rl.py
+  325  poetry add gymnasium[accept-lom-license]
+  326  python boxing-rl.py
+  327  poetry add gym[accept-rom-license]==0.21.0
+  328  python boxing-rl.py
+  329  poetry add autorom
+  330  poetry add gym-retro
+  331  python boxing-rl.py
+  332  python test.py
+  333  poetry add gymnasium[atari]
+  334  python test.py
+  335  python boxing-rl.py
+  336  poetry add gymnasium[box2d]
+  337  python test.py
+  338  python cartpole.py
+  339  python boxing-rl.py
+  340  python boxing.py
+  341  exit
+  342  poetry shell
+  343  poetry install
+  344  poetry shell
+  345  poetry add gymnasium[atari]
+  346  poetry run python boxing.py
+  347  poetry run python boxing-rl.py
+  348  ls
+  349  cd .
+  350  cd
+  351  ls
+  352  cd Atari-gym/
+  353  ls
+  354  poetry run
+  355  python 
+  356  ls
+  357  python Mountain-car-rl.py 
+  358  poetry shell
+  359  poetry run python Mountain-car-rl.py 
+  360  poetry run python boxing.py
+  361  poetry install
+  362  poetry run python boxing.py
+  363  ale-import-roms
+  364  poetry add gymnasium[accept-rom-license]
+  365  poetry run python boxing-rl.py 
+  366  poetry run python Boxing-RL/deep_q_learning/q_learning.py 
+  367  history > b.txt
+  368  . /home/pichu/.cache/pypoetry/virtualenvs/gym-boxing-22WLDLYl-py3.10/bin/activate
+  369  python Mountain-car-rl.py 
+  370  python 
+  371  python Boxing-RL/
+  372  python Boxing-RL.py
+  373  python boxing.py
+  374  python boxing-rl.py
+  375  poetry add gymnasium[atari]
+  376  cd ..
+  377  cd Atari-boxing/
+  378  poetry init
+  379  poetry run boxing.py
+  380  poetry run python boxing.py
+  381  poetry run python boxing-rl.py
+  382  exit
+  383  cd ..
+  384  ls
+  385  cd Atari-gym/
+  386  ls
+  387  poetry shell
+  388  poetry add gymnasium[atari]
+  389  poetry shell
+  390  . /home/pichu/.cache/pypoetry/virtualenvs/gym-boxing-22WLDLYl-py3.10/bin/activate
+  391  pip install gymnasium[atari]
+  392  pip install gymnasium[accept-rom-license]
+  393  poetry run python boxing-rl.py
+  394  history > c.txt
+  395  ls
+  396  cd Atari-boxing2
+  397  ls
+  398  poetry run python boxing-dqn.py
+  399  cd ..
+  400  cd Atari-cartpole/
+  401  ls
+  402  poetry init
+  403  poetry run python cartpole.py
+  404  cd ..
+  405  cd Atari-mountaincar/
+  406  poetry run python cartpole.py
+  407  poetry run python mountaincar_dqn.py 
+  408  poetry run pip install gymnasium
+  409  poetry run python mountaincar_dqn.py 
+  410  poetry run pip install keras-rl2
+  411  poetry run python mountaincar_dqn.py 
+  412  poetry run pip install tensorflow==2.10.0
+  413  poetry run python mountaincar_dqn.py 
+  414  cd ..
+  415  cd Atari-pendulam/
+  416  ls
+  417  poetry init
+  418  cd
+  419  cd Atari-pendulum/
+  420  poetry run python pendulum.py
+  421  poetry run pip install srl
+  422  poetry run python pendulum.py
+  423  poetry run pip install srl.algorithms
+  424  cd
+  425  cd Atari-cartpoledqn/
+  426  ls
+  427  poetry init
+  428  poetry run python cartpoledqn.py
+  429  poetry run pip install gymnasium
+  430  poetry run python cartpoledqn.py
+  431  poetry run pip install keras2
+  432  poetry run pip install tensorflow==2.10.0
+  433  poetry run pip install keras-rl2
+  434  poetry run python cartpoledqn.py
+  435  cd
+  436  cd Atari-mountaincar/
+  437  poetry run python mountaincar_dqn.py cd
+  438  cd
+  439  ls
+  440  cd Atari-boxing/
+  441  ls
+  442  poetry run python boxing-dqn.py
+  443  poetry run pip install keras-rl2
+  444  poetry run python boxing-dqn.py
+  445  poetry run pip install gymnasium
+  446  poetry run python boxing-dqn.py
+  447  poetry run pip install tensorflow==2.10.0
+  448  poetry run python boxing-dqn.py
+  449  poetry run pip install gymnasium[atari]
+  450  poetry run pip install gymnasium[accept-lom-ricense]
+  451  poetry run python boxing-dqn.py
+  452  poetry add gymnasium[accept-lom-ricense]
+  453  poetry run pip install gymnasium[accept-lom-ricense]
+  454  poetry run python boxing-dqn.py
+  455  cd
+  456  cd Atari-boxing/
+  457  ls
+  458  poetry init
+  459  poetry run python boxing-dqn.py
+  460  poetry run pip install tensorflow==2.10.0
+  461  poetry run python boxing-dqn.py
+  462  poetry run pip install gymnasium
+  463  poetry run pip install gymnasium[atari]
+  464  poetry run pip install gymnasium[accept-lom-ricense]
+  465  poetry run python boxing-dqn.py
+  466  poetry run pip install keras-rl2
+  467  poetry run python boxing-dqn.py
+  468  poetry run pip install gymnasium[accept-lom-ricense]
+  469  poetry run python boxing-dqn.py
+  470  . /home/pichu/.cache/pypoetry/virtualenvs/bo-1s62XVrh-py3.10/bin/activate
+  471  pip nstall gymnasium[atari]
+  472  pip install gymnasium[atari]
+  473  pip install gymnasium[all]
+  474  poetry run python boxing-dqn.py
+  475  pip install gymnasium[accept-lom-ricense]
+  476  pip install gymnasium[accept-rom-ricense]
+  477  pip install gymnasium[accept-rom-license]
+  478  poetry run python boxing-dqn.py
+  479  cd 
+  480  ls
+  481  cd Atari-cartpoledqn/
+  482  ls
+  483  exit()
+  484  exit
+  485  cd
+  486  cd Atari-B
+  487  cd Atari-boxing/
+  488  ls
+  489  poetry run python boxing-dqn.py
+  490  poetry shell
+  491  poetry init
+  492  poetry shell
+  493  . /home/pichu/.cache/pypoetry/virtualenvs/bo-1s62XVrh-py3.10/bin/activate
+  494  pip install gymnasium[all]
+  495  cd
+  496  cd Atari-cartpoledqn/
+  497  ls
+  498  pip install gymnasium[all]
+  499  ls
+  500  python cartpoledqn.py 
+  501  cd
+  502  cd Atari-mountaincar/
+  503  ls
+  504  python mountaincar_dqn.py 
+  505  history > g.txt
+  506  cd
+  507  cd Atari-mountaincar/
+  508  poetry run pip install gymnasium[all]
+  509  poetry run python mountaincar_dqn.py 
+  510  poetry run python mountaincar_dqn.py ]
+  511  poetry run pip install tensorflow==2.10.1
+  512  poetry run python mountaincar_dqn.py 
+  513  poetry run pip install tensorflow==2.9.1
+  514  poetry run python mountaincar_dqn.py 
+  515  poetry run pip install tensorflow==2.9.2
+  516  poetry run python mountaincar_dqn.py 
+  517  poetry run pip install tensorflow==2.9.3
+  518  poetry run python mountaincar_dqn.py 
+  519  poetry run pip install tensorflow==2.8.4
+  520  poetry run python mountaincar_dqn.py 
+  521  poetry run pip install tensorflow==2.7.4
+  522  poetry run pip install tensorflow==2.11.1
+  523  poetry run python mountaincar_dqn.py 
+  524  poetry run pip install --upgrade keras-rl2
+  525  poetry run python mountaincar_dqn.py 
+  526  poetry run pip install tensorflow==2.12.1
+  527  poetry run python mountaincar_dqn.py 
+  528  poetry run pip install tensorflow==2.13.1
+  529  poetry run python mountaincar_dqn.py 
+  530  poetry init
+  531  poetry run python mountaincar_dqn.py 
+  532  poetry env info
+  533  poetry env use 3.9.1
+  534  pyenv install -l
+  535  pyenv install 3.9.16
+  536  [200~source ~/.bash_profile~
+  537  source ~/.bash_profile
+  538  pyenv local 3.9.16
+  539  poetry run python mountaincar_dqn.py 
+  540  poetry run pip install gymnasium
+  541  poetry run pip install gymnasium[atari]
+  542  poetry run pip install gymnasium[accept-rom-license]
+  543  poetry run python mountaincar_dqn.py 
+  544  poetry run pip install tensorflow==2.6.3
+  545  poetry run python mountaincar_dqn.py 
+  546  poetry run pip numpy
+  547  poetry run pip install numpy
+  548  poetry run pip install numpy==1.19.0
+  549  poetry run python mountaincar_dqn.py 
+  550  poetry run pip install numpy.typing
+  551  poetry run pip install numpy==1.21.0
+  552  poetry run python mountaincar_dqn.py 
+  553  poetry run protoc --version
+  554  poetry run pip install protobuf==3.20.0
+  555  poetry run python
+  556  poetry run pip install keras-rl2
+  557  poetry run python mountaincar_dqn.py 
+  558  poetry env info
+  559  echo $PATH
+  560  poetry env info
+  561  poetry env use 3.9.16
+  562  poetry env info
+  563  poetry run python mountaincar_dqn.py 
+  564  poetry run numpy --version
+  565  poetry run pip numpy --version
+  566  numpy --version
+  567  poetry run pip install numpy==1.21.0
+  568  poetry run python mountaincar_dqn.py 
+  569  cd
+  570  cd Atari-mountaincar/
+  571  poetry run python mountaincar_dqn.py 
+  572  poetry init
+  573  poetry run python mountaincar_dqn.py 
+  574  poetry run pip install gymnasium
+  575  poetry run pip install gymnasium[atari]
+  576  poetry run pip install gymnasium[accept-rom-license]
+  577  poetry run pip install keras-rl2
+  578  poetry run pip install tensorflow==2.6.3
+  579  poetry run python mountaincar_dqn.py 
+  580  history > h.txt
+  581  poetry run pip install numpy==1.21.0
+  582  poetry run python mountaincar_dqn.py 
+  583  poetry run pip install protobuf==3.20.0
+  584  poetry run pip install keras-rl2
+  585  poetry run python mountaincar_dqn.py 
+  586  poetry run pip install numpy==1.21.0
+  587  poetry run python mountaincar_dqn.py 
+  588  poetry init
+  589  poetry run pip install gymnasium
+  590  poetry run pip install gymnasium[atari]
+  591  poetry run pip install gymnasium[accept-rom-license
+  592  poetry run pip install gymnasium[accept-rom-license]
+  593  poetry run pip install tensorflow==2.10.0
+  594  poetry run pip install tensorflow==2.5.3
+  595  poetry run python mountaincar_dqn.py 
+  596  poetry run pip install numpy==1.21.0
+  597  poetry run pip install proto
+  598  poetry run pip install numpy==1.21.0
+  599  poetry run python mountaincar_dqn.py 
+  600  poetry run pip install keras-rl
+  601  poetry run python mountaincar_dqn.py 
+  602  pyenv install -l
+  603  pyenv install 3.8.16
+  604  [200~source ~/.bash_profile
+  605  source ~/.bash_profile
+  606  pyenv local 3.8.16
+  607  poetry env use 3.8.16
+  608  poetry init
+  609  poetry env use 3.8.16
+  610  poetry run python mountaincar_dqn.py 
+  611  poetry run pip install gymnasium
+  612  poetry run pip install gymnasium[atari]
+  613  poetry run pip install gymnasium[accept-rom-license]
+  614  poetry run pip install tensorflow==2.5.3
+  615  poetry run pip install protobuf==3.20.0
+  616  poetry run python mountaincar_dqn.py 
+  617  poetry run pip install numpy==1.21.0
+  618  poetry run python mount
+  619  poetry run pip install keras-rl2
+  620  poetry run python mountaincar_dqn.py 
+  621  poetry run pip install keras-rl2
+  622  poetry run pip install numpy==1.21.0
+  623  poetry run python mountaincar_dqn.py 
+  624  poetry init
+  625  ls
+  626  poetry run pip install gymnasium
+  627  poetry run pip install gymnasium[atari]
+  628  poetry run pip install gymnasium[accept-rom-license]
+  629  poetry run pip install tensorflow==2.4.4
+  630  poetry run pip install protobuf==3.20.0
+  631  poetry run pip install keras-rl2
+  632  poetry run pip install numpy==1.21.0
+  633  poetry run python mountaincar_dqn.py 
+  634  poetry run pip install tensorflow==2.4.4
+  635  poetry run python mountaincar_dqn.py 
+  636  poetry run pip install numpy==1.21.0
+  637  poetry run python mountaincar_dqn.py 
+  638  cd[exit
+  639  cd
+  640  cd Atari-mountaincar/
+  641  history i.txt
+  642  history >  i.txt
