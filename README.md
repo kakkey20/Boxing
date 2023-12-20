@@ -95,6 +95,7 @@ python Boxing-rl.py
 - [Boxing(Gymn)](https://www.gymlibrary.dev/environments/atari/boxing/#boxing)
 - [Boxing(Gymnasiumn)](https://gymnasium.farama.org/environments/atari/boxing/#boxing)
 - [AtariAge Boxing](https://atariage.com/manual_html_page.php?SoftwareID=882)
+- [深層強化学習のパッケージ調査](https://qiita.com/s-inoue-git/items/edafea0bca155ce1e7a6)
 
 
 ## Tensorflow(version)　→ mountaincarを各バージョンで実行したが、うまくいかず
