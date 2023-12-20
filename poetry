@@ -1,0 +1,16 @@
+sudo apt-get update
+sudo apt-get -f install
+sudo apt-get dist-upgrade
+sudo apt-get install build-essential cmake libevdev-dev libudev-dev libgl1-mesa-dev libusb-1.0-0-dev libao-dev libpulse-dev libxrandr-dev libopenal-dev libasound2-dev libzmq3-dev libgtk2.0-dev libpng-dev
+sudo apt install curl
+sudo apt install git
+curl https://pyenv.run | bush(bash_profile hituyou)
+source ~/.bash_profile
+pyenv install -l
+pyenv install 3.7.16
+poetry 
+sudo apt install poetry
+poetry init
+poetry env info
+pyenv local 3.7.16
+poetry run pip install ___ or poetry shell
